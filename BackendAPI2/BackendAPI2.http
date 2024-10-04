@@ -1,0 +1,6 @@
+@BackendAPI2_HostAddress = http://localhost:5002
+
+GET {{BackendAPI2_HostAddress}}/api/backend2
+Accept: application/json
+
+###

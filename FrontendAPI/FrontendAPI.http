@@ -1,0 +1,6 @@
+@FrontendAPI_HostAddress = http://localhost:5189
+
+GET {{FrontendAPI_HostAddress}}/Frontend/invoke-apis
+Accept: application/json
+
+###
